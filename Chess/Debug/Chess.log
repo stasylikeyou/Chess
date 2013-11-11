@@ -1,0 +1,29 @@
+﻿Построение начато 11.11.2013 17:30:01.
+     1>Проект "C:\Users\evseeva\OOP\lab1\Chess\Chess\Chess.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Chess.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Chess.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Chessone.cpp
+         Chessone.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\evseeva\OOP\lab1\Chess\Debug\Chess.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chess.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\evseeva\OOP\lab1\Chess\Debug\Chess.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\evseeva\OOP\lab1\Chess\Debug\Chess.lib" /MACHINE:X86 Debug\Chess.exe.embed.manifest.res
+         Debug\Chess.obj
+         Debug\Chessone.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Chess.exe.embed.manifest" /manifest Debug\Chess.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Chess.vcxproj -> C:\Users\evseeva\OOP\lab1\Chess\Debug\Chess.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Chess.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Chess.lastbuildstate".
+     1>Построение проекта "C:\Users\evseeva\OOP\lab1\Chess\Chess\Chess.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.22
